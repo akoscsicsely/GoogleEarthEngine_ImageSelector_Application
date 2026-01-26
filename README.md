@@ -25,7 +25,7 @@ LANDSAT 8:
 
 Option to save selected image on Google Drive.
 
-Current status: Sentinel 2 and MODIS scripts are present. Landsat 8 needs to be checked before publish.
+Current status: Sentinel 2, Landsat 8 and MODIS scripts are present.
 Future update: all satellites in one script
 
 ********************************* Csicsely Ákos 2020 **************************************
